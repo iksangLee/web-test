@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/leeiksang/tmp/web-test/logs/.099521df99d704de44c96b1c1ce44cebd794ee61-audit.json",
+    "files": [
+        {
+            "date": 1754732369390,
+            "name": "/Users/leeiksang/tmp/web-test/logs/mcp-puppeteer-2025-08-09.log",
+            "hash": "d1c8477ee8a16173cc276c862dae5402ed61cff82cd131b790f8e59405ac1835"
+        }
+    ],
+    "hashType": "sha256"
+}

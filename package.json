@@ -1,0 +1,30 @@
+{
+  "name": "web-boilerplate",
+  "version": "1.0.0",
+  "description": "웹 개발용 보일러플레이트 템플릿",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000",
+    "dev": "npx live-server --port=3000 --watch=.",
+    "build": "echo 'Build process not configured yet'",
+    "test": "echo 'Tests not configured yet'"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "boilerplate",
+    "template",
+    "frontend"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
